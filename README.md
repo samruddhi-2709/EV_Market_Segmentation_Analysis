@@ -1,3 +1,4 @@
-The objective is to conduct a comprehensive analysis of the Electric Vehicles (EV) Market in India through Segmentation analysis and devise a viable market entry strategy. This involves identifying and targeting segments that are more inclined to adopt the product based on Geographic, Demographic,
-Psychographic, and Behavioural factors. The analysis encompasses various dimensions such as region, pricing, charging infrastructure, vehicle types (2-wheelers, 3-wheelers, 4-wheelers), retail outlets,
-manufacturers, vehicle body types, safety features, etc.
+This project focuses on a strategic analysis of the Electric Vehicles (EV) Market in India, aiming to develop a viable market entry strategy for an EV startup. The analysis incorporates advanced machine learning techniques, including K-Nearest Neighbors (KNN) and Principal Component Analysis (PCA), to identify high-potential customer segments.
+
+Key factors considered include geographic, demographic, psychographic, and behavioral data, enabling targeted insights into EV adoption trends. This repository demonstrates the application of data science and machine learning for market segmentation and strategic business decision-making.
+
